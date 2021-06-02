@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension type="library"
-	   version="3.1">
+	   version="3.1"
+	   method="upgrade">
     <name>Monolog for Joomla</name>
     <libraryname>monolog</libraryname>
     <version>1.0.0</version>
@@ -24,6 +25,8 @@
 	<file>README.md</file>
     </files>
     <updateservers>
-	<server type="extension" priority="1" name="Extension Update Site">https://download.filefabrik.com/library_filefabrik_monolog.xml</server>
+	<server type="extension"
+		priority="1"
+		name="Extension Update Site">https://download.filefabrik.com/library_filefabrik_monolog.xml</server>
     </updateservers>
 </extension>
