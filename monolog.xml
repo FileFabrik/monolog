@@ -10,7 +10,7 @@
     <creationDate>2021</creationDate>
     <copyright>Copyright (C) 2021 FileFabrik All rights reserved.</copyright>
     <license>MIT for the Seldaek/Monolog-Library | MIT for the for this Install-Wrapper; see LICENSE.txt</license>
-    <author>FileFabrik rt@filefabrik.com</author>
+    <author>FileFabrik</author>
     <authorEmail>rt@filefabrik.com</authorEmail>
     <authorUrl>https://filefabrik.com</authorUrl>
     <packager>FileFabrik</packager>
@@ -19,5 +19,7 @@
 	<folder>Monolog</folder>
 	<file>.htaccess</file>
 	<file>index.php</file>
+	<file>LICENSE</file>
+	<file>README.md</file>
     </files>
 </extension>
