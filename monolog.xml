@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="library"
+	   version="3.1">
+    <name>Monolog for Joomla</name>
+    <libraryname>monolog</libraryname>
+    <version>2.2.0</version>
+    <description>This installer brings the Monolog Logger Framework as library into Joomla/libraries (as the central place). So other developer can
+	simply use the Monolog library
+    </description>
+    <creationDate>2021</creationDate>
+    <copyright>Copyright (C) 2021 FileFabrik All rights reserved.</copyright>
+    <license>MIT for the Seldaek/Monolog-Library | MIT for the for this Install-Wrapper; see LICENSE.txt</license>
+    <author>FileFabrik rt@filefabrik.com</author>
+    <authorEmail>rt@filefabrik.com</authorEmail>
+    <authorUrl>https://filefabrik.com</authorUrl>
+    <packager>FileFabrik</packager>
+    <packagerurl>https://filefabrik.com</packagerurl>
+    <files folder="libraries">
+	<folder>Monolog</folder>
+	<file>.htaccess</file>
+	<file>index.php</file>
+    </files>
+</extension>

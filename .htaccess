@@ -1,0 +1,7 @@
+
+# apache 2.2 configuration
+# Order deny,allow
+# Deny from all
+
+# apache 2.4 configuration
+Require all denied
