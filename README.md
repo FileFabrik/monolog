@@ -1,7 +1,6 @@
 # monolog for joomla
 
 Monolog Library for Joomla 3.* with installer
-To preve
 
 ## Installation in joomla 
 
