@@ -27,6 +27,6 @@
     <updateservers>
 	<server type="extension"
 		priority="1"
-		name="Extension Update Site">https://download.filefabrik.com/library_filefabrik_monolog.xml</server>
+		name="FileFabrik extension update manifest monolog">https://download.filefabrik.com/library_filefabrik_monolog.xml</server>
     </updateservers>
 </extension>
