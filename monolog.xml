@@ -3,7 +3,7 @@
 	   version="3.1">
     <name>Monolog for Joomla</name>
     <libraryname>monolog</libraryname>
-    <version>2.2.0</version>
+    <version>1.0.0</version>
     <description>This installer brings the Monolog Logger Framework as library into Joomla/libraries (as the central place). So other developer can
 	simply use the Monolog library
     </description>
@@ -16,10 +16,14 @@
     <packager>FileFabrik</packager>
     <packagerurl>https://filefabrik.com</packagerurl>
     <files folder="libraries">
+	<folder>docs</folder>
 	<folder>Monolog</folder>
 	<file>.htaccess</file>
 	<file>index.php</file>
 	<file>LICENSE</file>
 	<file>README.md</file>
     </files>
+    <updateservers>
+	<server type="extension" priority="1" name="Extension Update Site">https://download.filefabrik.com/library_filefabrik_monolog.xml</server>
+    </updateservers>
 </extension>
