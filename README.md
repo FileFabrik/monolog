@@ -7,7 +7,7 @@ Monolog Library for Joomla 3.* with installer
 Copy this url and follow the installation steps as shown in the description.
 
 ```shell
-https://github.com/FileFabrik/monolog/archive/refs/heads/main.zip
+https://github.com/FileFabrik/monolog/archive/refs/tags/1.0.0.zip
 ```
 
 ![install library into joomla 3.9](./docs/install-monolog-for-joomla.png)
